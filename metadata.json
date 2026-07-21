@@ -1,0 +1,6 @@
+{
+  "name": "HamMasir YC - Y Combinator Iran",
+  "description": "شتاب‌دهنده و پلتفرم اتوماسیون مشابه وای کامبینیتور برای استارتاپ‌های ایرانی با ارزیابی هوشمند و هم‌بنیان‌یاب (Y Combinator platform customized for the Iranian startup ecosystem, featuring AI application review and co-founder matching).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
